@@ -1,3 +1,4 @@
 google-cloud-aiplatform
 google-adk
 dotenv
+llama-index
